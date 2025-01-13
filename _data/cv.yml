@@ -1,97 +1,114 @@
-- title: General Information
+- title: General info
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: First name
+      value: Silvia 
+    - name: Last names
+      value: Rodríguez Alcaraz
+    - name: Nationallity
+      value: Spanish
     - name: Languages
-      value: English, German
+      value: Spanish (native), Galician (native), English (advanced)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+    - title: PhD in Information Technology Research
+      institution: University of Santiago de Compostela, Santiago de Compostela, Spain
+      year: 2020-now
+      location: Spain    
+    - title: MSc in High-Performance Computing
+      institution: University of Santiago de Compostela, Santiago de Compostela, Spain
+      year: 2019-2020
+      location: Spain
+    - title: BSc in Computer Science Engineering
+      institution: University of Santiago de Compostela, Santiago de Compostela, Spain
+      year: 2014-2019
+      location: Spain      
+- title: Academia experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD Student | FPI scholarship holder 
+      institution: Singular Research Center for Intelligent Technologies (CiTIUS) 
+      location: Spain
+      year: 2021 - now
+    - title: Guest researcher
+      institution: Systems Group, ETH Zürich
+      location: Switzerland
+      year: Fall 2024
+    - title: Guest researcher
+      institution: ESRG Group, University of Minho
+      location: Portugal      
+      year: Spring 2023
+    - title: Research assistant
+      institution: Singular Research Center for Intelligent Technologies (CiTIUS)
+      location: Spain 
+      year: 2020-2021
+    - title: Collaboration scholarship
+      institution: Singular Research Center for Intelligent Technologies (CiTIUS) 
+      location: Spain
+      year: 2019
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: Industry experience
+  type: time_table
+  contents:
+    - title: Graduated intern
+      institution: Supercomputing Center of Galicia (CESGA)
+      year: Spring 2019 
+      location: Spain
+    - title: Undergraduated intern
+      institution: Hewlett-Packard Enterprise (HPE)
+      location: Spain
+      year: Summer 2018
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/silviaralcaraz/FlinkBWA">Flink BWA</a>
+      year: 2019
+      description: 
+      - Bachelor thesis
+      - Distributed version of the Burrows-Wheeler Alignment using Apache Flink
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - title: IACOBUS Scholarship
+      institution: European Grouping of Territorial Cooperation - Galicia-Northern Portugal (GNP-ECTC)
+      year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Grant for a short research stay at the Universidade do Minho (Portugal).
+    - title: FPI Scholarship
+      institution: Spanish Ministry of Science, Innovation and Universities
+      year: 2021
       items:
-        - Max Planck Medal
+        - Scholarship for pursuing a PhD in the field of Computer Science at CiTIUS.
+    - title: Collaboration Scholarship
+      institution: Spanish Ministry of Education and Professional Training
+      year: 2019
+      items:
+        - Scholarship for collaborating during 8 months in reseach activities at the Department of Electronics and Computing of the University of Santiago de Compostela.
+    - title: Altia Award Finalist
+      year: 2019
+      institution: Altia
+      items:
+        - Top 5 best Bachelor Theses in Computer Science Engineering at the University of Santiago de Compostela in the <a href="https://www.altia.es/en/about-altia/newsroom/news/five-finalists-first-altia-premia">2019 Altia Premia program</a>.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: High-Performance Computing
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Parallel programming
+        - Heterogeneous computing
+        - Performance portability
+        - Distributed systems
 
-- title: Other Interests
+- title: Other Interests/Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    "My greatest hobby is <b>music</b>. I've been playing various instruments since childhood, and currently, 
+    I enjoy practicing the electric guitar 🎸 whenever possible. In addition,
+    I like <b>traveling</b> ✈️ and exploring new places and cultures. Other hobbies include <b>photography</b> 📷, 
+    <b>reading</b> 📚, watching <b>movies/series</b> 🎬, as well as experimenting with coding projects (unrelated to work)
+    and exploring <b>tech stuff</b> 💻."
