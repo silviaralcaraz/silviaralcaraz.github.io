@@ -460,6 +460,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-7184-3783", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/silviaralcaraz# your LinkedIn user name", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -472,13 +479,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://citius.gal/team/silvia-rodriguez-alcaraz/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
