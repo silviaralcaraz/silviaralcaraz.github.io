@@ -44,7 +44,7 @@
       institution: Singular Research Center for Intelligent Technologies (CiTIUS)
       location: Spain 
       year: 2020-2021
-    - title: Collaboration scholarship
+    - title: Collaboration scholarship holder
       institution: Singular Research Center for Intelligent Technologies (CiTIUS) 
       location: Spain
       year: 2019
@@ -64,11 +64,15 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/silviaralcaraz/ihp-sycl">ihp-sycl</a>
+      year: 2023
+      description: 
+      - Microbenchmark for evaluating the capabilities and performance of Intel oneAPI, Intel's implementation of SYCL, for heterogeneous computing. It uses iterative problems as case study, as well as dynamic load balancing between the host and the device. It was tested on CPU+GPU and CPU+FPGA configurations.
     - title: <a href="https://github.com/silviaralcaraz/FlinkBWA">Flink BWA</a>
       year: 2019
       description: 
       - Bachelor thesis
-      - Distributed version of the Burrows-Wheeler Alignment using Apache Flink
+      - Distributed version of the Burrows-Wheeler Alignment using Apache Flink.
 
 - title: Honors and Awards
   type: time_table
@@ -99,16 +103,8 @@
   contents:
     - title: High-Performance Computing
       items:
-        - Parallel programming
         - Heterogeneous computing
         - Performance portability
+        - High-Level Synthesis
         - Distributed systems
 
-- title: Other Interests/Hobbies
-  type: list
-  contents:
-    "My greatest hobby is <b>music</b>. I've been playing various instruments since childhood, and currently, 
-    I enjoy practicing the electric guitar 🎸 whenever possible. In addition,
-    I like <b>traveling</b> ✈️ and exploring new places and cultures. Other hobbies include <b>photography</b> 📷, 
-    <b>reading</b> 📚, watching <b>movies/series</b> 🎬, as well as experimenting with coding projects 
-    and exploring <b>tech stuff</b> 💻."

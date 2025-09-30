@@ -24,7 +24,8 @@ Organize your courses by years, topics, or universities, however you like!-->
   - 2023/2024: "Evaluation of the SYCLomatic tool"  
   - 2021/2022: "Parallelization of a graph-based 3D point cloud segmentation algorithm using heterogeneous programming"
 - Computer Science Degree
-  - 2023/2024: "Digital audio signal processing over programmable logic "
+  - 2024/2025: "Real-time processing of terrestrial LiDAR point clouds"
+  - 2023/2024: "Digital audio signal processing over programmable logic"
   - 2022/2023: "Multieffect system for electric guitar on programmable logic"
   - 2022/2023: "FPGA image and video processing using high-level languages"  
   - 2021/2022: "Edge computing of LiDAR data on heterogeneous systems" 
