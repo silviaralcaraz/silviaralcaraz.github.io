@@ -15,7 +15,7 @@
   contents:
     - title: PhD in Information Technology Research
       institution: University of Santiago de Compostela, Santiago de Compostela, Spain
-      year: 2020-now
+      year: 2020-2025
       location: Spain    
     - title: MSc in High-Performance Computing
       institution: University of Santiago de Compostela, Santiago de Compostela, Spain
@@ -28,10 +28,14 @@
 - title: Academia experience
   type: time_table
   contents:
+    - title: Postdoctoral research collaborator
+      institution: Singular Research Center for Intelligent Technologies (CiTIUS) 
+      location: Spain
+      year: 2025 - now
     - title: PhD Student | FPI scholarship holder 
       institution: Singular Research Center for Intelligent Technologies (CiTIUS) 
       location: Spain
-      year: 2021 - now
+      year: 2021 - 2025
     - title: Guest researcher
       institution: Systems Group, ETH Zürich
       location: Switzerland
@@ -107,4 +111,5 @@
         - Performance portability
         - High-Level Synthesis
         - Distributed systems
+        - Efficient 3D point cloud processing    
 
