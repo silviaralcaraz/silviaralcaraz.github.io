@@ -443,7 +443,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%69%6C%76%69%61.%61%6C%63%61%72%61%7A@%75%73%63.%65%73", "_blank");
+          window.open("mailto:%73%69%6C%76%69%61.%61%6C%63%61%72%61%7A@%69%6E%66.%65%74%68%7A.%63%68", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -478,7 +478,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://citius.gal/team/silvia-rodriguez-alcaraz/", "_blank");
+          window.open("https://systems.ethz.ch/people/profile.MzMyMTY1.TGlzdC8zODg5LDEyOTU2NDI2OTI=.html", "_blank");
         },
       },{
       id: 'light-theme',
